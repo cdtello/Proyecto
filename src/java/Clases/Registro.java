@@ -46,7 +46,8 @@ public class Registro extends Conexion{
         //Statement.executeQuery(Consulta);
         conectar.cerrarConexion(con);
     }
-    
+
+// añadiendo comentarios    
 
 }
 
